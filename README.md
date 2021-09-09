@@ -8,9 +8,9 @@ I am student of a Bachelor of Computer Science. I want to be the best version of
 </p>
 <p>
   <a href="https://github.com/kusdby/github-readme-stats">
-    <img height="150" width="350" align="center" src="https://github-readme-stats.vercel.app/api?username=kusdby&show_icons=true&count_private=true&theme=dark">
+    <img height="150" length="500" align="center" src="https://github-readme-stats.vercel.app/api?username=kusdby&show_icons=true&count_private=true&theme=dark">
   </a>
   <a href="https://github.com/kusdby/github-readme-stats">
-    <img height="150" width="350" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kusdby&layout=compact&theme=dark">
+    <img height="150" lenght="500" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kusdby&layout=compact&theme=dark">
   </a>
 </p>
